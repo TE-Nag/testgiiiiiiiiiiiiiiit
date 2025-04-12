@@ -3,3 +3,4 @@ adding new comment.
 git add
 git comment
 git add
+git rm
