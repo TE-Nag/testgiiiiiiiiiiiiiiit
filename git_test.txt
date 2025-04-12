@@ -1,2 +1,4 @@
 practice to use git!
 adding new comment.
+git add
+git comment
