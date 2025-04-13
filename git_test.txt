@@ -7,3 +7,4 @@ git rm
 git status
 git diff
 test1
+test2
